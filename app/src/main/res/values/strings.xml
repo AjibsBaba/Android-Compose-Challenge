@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Adopet</string>
+    <string name="adopt">Adopt a dog today</string>
+    <string name="search">Find your New Pet</string>
+    <string name="age">Age</string>
+    <string name="color">Color</string>
+    <string name="sex">Gender</string>
+    <string name="weight">Weight</string>
+</resources>
